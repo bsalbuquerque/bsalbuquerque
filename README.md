@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bsalbuquerque
+- 👀 I’m interested in Python language
+- 🌱 I’m currently learning Flask Apps, MVC and APIs
+- 📫 How to reach me: contato@brunoalbuquerque.com
