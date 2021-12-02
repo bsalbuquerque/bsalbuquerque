@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bsalbuquerque
-- 👀 I’m interested in ```[Python, JavaScript]``` language and Blockchain
+- 👀 I’m interested in ```[Python, JavaScript]``` languages and Blockchain
 - 🌱 I’m currently learning Flask Apps, MVC and APIs
 - 📫 How to reach me: contato@brunoalbuquerque.com
